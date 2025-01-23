@@ -6,7 +6,7 @@
 
 <br />
 
-### Technologies images:
+### Image of technologies used:
 
 #### ReactJS library of JavaScript
 
