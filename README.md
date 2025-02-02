@@ -25,3 +25,15 @@
 #### Login window:
 
 <img src="/Images/login.png" />
+
+<br />
+
+<img src="/Images/form1.png" />
+
+<br />
+
+<img src="/Images/form2.png" />
+
+<br />
+
+<img src="/Images/nakama.png" />
